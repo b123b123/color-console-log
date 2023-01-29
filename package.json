@@ -1,6 +1,6 @@
 {
 	"name": "log-console-color",
-	"version": "1.2.0",
+	"version": "1.2.1",
 	"description": "Custom style console printing",
 	"main": "index.js",
 	"scripts": {
@@ -10,5 +10,13 @@
 	"license": "ISC",
 	"dependencies": {
 		"wb-color": "^1.2.2"
-	}
+	},
+	"keywords": [
+		"log",
+		"console",
+		"console.log",
+		"colorful",
+		"color",
+		"custom"
+	]
 }
