@@ -2,11 +2,11 @@
 
 - #### Install
 
-  npm install color-console-log
+  npm install log-console-color
 
 - #### Introduce
 
-  import { ColorConsoleLog , config } from 'color-console-log'
+  import { ColorConsoleLog , config } from 'log-console-color'
 
 - #### Use
 
@@ -82,11 +82,11 @@
 
 - #### 安装
 
-  npm install color-console-log
+  npm install log-console-color
 
 - #### 引入
 
-  import { ColorConsoleLog , config } from 'color-console-log'
+  import { ColorConsoleLog , config } from 'log-console-color'
 
 - #### 使用
 

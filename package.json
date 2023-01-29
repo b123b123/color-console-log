@@ -1,12 +1,12 @@
 {
-	"name": "color-console-log",
-	"version": "1.1.3",
-	"description": "自定义样式控制台打印",
+	"name": "log-console-color",
+	"version": "1.2.0",
+	"description": "Custom style console printing",
 	"main": "index.js",
 	"scripts": {
 		"test": "echo \"Error: no test specified\" && exit 1"
 	},
-	"author": "bodiguo",
+	"author": "wb",
 	"license": "ISC",
 	"dependencies": {
 		"wb-color": "^1.2.2"
